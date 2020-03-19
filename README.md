@@ -1,2 +1,2 @@
-# space-traffic-management-ontology
-An ontology of space traffic management (STMO)
+# The Space Traffic Management Ontology (STMO)
+The STM ontology is an ontology of the STM domain. 
