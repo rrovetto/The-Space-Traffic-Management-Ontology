@@ -1,2 +1,9 @@
 # The Space Traffic Management Ontology (STMO)
-The STM ontology is an ontology of the STM domain. 
+An ontology of the space traffic management domain.
+
+## Contact
+rrovetto(at)terpalum.umd.edu
+
+## Rights
+© 2018-2020, Robert John Rovetto.
+All rights reserved. 
